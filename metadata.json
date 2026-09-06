@@ -1,0 +1,6 @@
+{
+  "name": "FitForge — Gym & Home Workout",
+  "description": "Personalized Gym and Home workout application with Jetpack Compose Material 3 UI, onboarding, workout routines, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
